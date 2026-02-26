@@ -1,0 +1,9 @@
+{
+  "prompts": {
+    "sv": "Transkription på svenska. Använd korrekt stavning, skiljetecken och stor bokstav i början av meningar. Skriv siffror som siffror, till exempel 5 och inte fem. Förkortningar skrivs med punkt, till exempel dr. och prof."
+  },
+  "output": {
+    "stringReplacements": [],
+    "regexReplacements": []
+  }
+}
